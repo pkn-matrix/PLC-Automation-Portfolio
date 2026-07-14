@@ -1,4 +1,4 @@
-# OpenPLC Learning Portfolio
+# PLC-Automation-Portfolio
 
 This repository documents my hands-on journey of learning PLC programming using OpenPLC through practical industrial automation projects.
 
