@@ -69,16 +69,22 @@ This logic is commonly used in:
 
 ## Ladder Diagram
 
+Implementation of a basic motor start/stop control circuit using seal-in (latching) logic.
+
 ![Ladder Diagram](Images/ladder_diagram.png)
 
 ---
 
 ## Simulation - Motor Running
 
+Motor energized after pressing the Start push button.
+
 ![Motor Running](Images/simulation_motor_on.png)
 
 ---
 
 ## Simulation - Motor Stopped
+
+Motor de-energized after pressing the Stop push button.
 
 ![Motor Stopped](Images/simulation_motor_off.png)
